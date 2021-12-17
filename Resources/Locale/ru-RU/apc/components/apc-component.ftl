@@ -1,1 +1,1 @@
-apc-component-insufficient-access = Недостаточный доступ!
+apc-component-insufficient-access = Нет доступа!
